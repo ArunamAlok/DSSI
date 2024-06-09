@@ -1,0 +1,20 @@
+Question I’m interested in: 
+
+Context- Patent search and examination process is vital to determine the patentability of the invention. 
+There have been several uses of AI/ML methods to assist practitioners (Examiners/Patent Agents) to identify the core inventive aspects of any patented invention. 
+
+<What is the question and why is this question interesting? Methods to do this>
+Problem1- Match and Determine semantic similarity between key phrases from patent documents within the patent’s contexts, as determined by CPC Classification. 
+Dataset. Data Source: Kaggle US Patent Phrase-to-Phrase matching. (https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/code); 
+Google Patent Phrase-to-Phrase Matching (https://research.google/resources/datasets/google-patent-phrase-similarity/#:~:text=The%20Patent%20Phrase%20Similarity%20dataset%20is%20designed%20to%20include%20many,models%20to%20improve%20their%20performance)
+
+Problem2- Extract contextual information (abstract, title, claim) from patent documents in order to help in assigning of classifications
+Data Source: https://github.com/wesslen/BigDataPatent; Google Patent Research Data https://www.kaggle.com/datasets/bigquery/google-patents-research/code
+
+Method: 
+Data Exploration- Build Word cloud, 
+Unsupervised using K-means 
+Build classifier 
+
+
+
