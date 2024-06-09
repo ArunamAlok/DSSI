@@ -10,3 +10,9 @@ This project has selected the DWPI (Derwent World Patents Index) dataset contain
 technologies related patent applications and grants from world’s patent issuing authorities.
 This dataset (8867x91) is the basis for the WIPO patent landscape report with an objective to undertake
 landscaping analysis of patenting and innovation activity related to e-waste technologies.
+
+The sheer increase in the number of patents over years makes a case to facilitate patent
+classification using AI/ML methods to assist the Patents Office efficiently manage patent
+applications.The analysis looks into following questions: 
+How to pre-process data for Patents ? Since its a technical document, how to do that using language models such as SciSpacy etc. How to decide the optimal number of topics that may exist and can be identified from the data?
+
