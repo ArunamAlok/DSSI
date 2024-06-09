@@ -1,0 +1,1 @@
+Geospatial Analytics using QGIS, Google Earth Engine and Python (Geopandas) 
