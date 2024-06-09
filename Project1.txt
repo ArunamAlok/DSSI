@@ -1,0 +1,12 @@
+In the knowledge-based and digital economy, the effective protection and management of
+Intellectual Property rights, such as patents, is essential. 
+Patent applications are techno-legally complex and require significant experience and expertise in order to assign
+suitable classifications and determine its patentability during the examination process. 
+WIPO,including other IP Offices, are exploring the use of AI/ML methods to assist practitioners
+(Examiners/Patent Agents) in several usecases such as automatic patent classifications,
+determining semantic similarity between key phrases from patent documents within the
+patent’s contexts.
+This project has selected the DWPI (Derwent World Patents Index) dataset containing e-waste
+technologies related patent applications and grants from world’s patent issuing authorities.
+This dataset (8867x91) is the basis for the WIPO patent landscape report with an objective to undertake
+landscaping analysis of patenting and innovation activity related to e-waste technologies.
