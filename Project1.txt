@@ -16,3 +16,6 @@ classification using AI/ML methods to assist the Patents Office efficiently mana
 applications.The analysis looks into following questions: 
 How to pre-process data for Patents ? Since its a technical document, how to do that using language models such as SciSpacy etc. How to decide the optimal number of topics that may exist and can be identified from the data?
 
+The objective is general exploration of the core inventive aspects of the patent application by
+extracting information (title/abstract etc.).This is done using the natural language toolkit
+(nltk) and topic modeling framework (gensim).
